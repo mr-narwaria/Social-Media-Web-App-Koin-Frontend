@@ -2,11 +2,9 @@
 
 Koin is a real-time social media platform designed for students, facilitating messaging and content sharing within a community of 7,000+ users. Built using the MERN stack with JWT authentication, Koin provides a secure and engaging social experience.
 
-**[Link to GitHub Repository]** (Replace with your actual repository link)
-
 ---
 
-## Project Highlights (For Resume)
+## Project Highlights
 
 * Developed a real-time social media platform (Koin) using the MERN stack (MongoDB, Express.js, React.js, Node.js) for 7,000+ students, enabling messaging and content sharing.
 * Designed and implemented RESTful APIs, optimizing MongoDB query performance by 30% and significantly enhancing response times.
@@ -89,9 +87,3 @@ To run Koin locally, follow these steps:
 
 * [Abhishek Kumar Singh](https://github.com/AbhiSinghiitr)
 * [Shambhoolal Narwaria](https://github.com/mr-narwaria)
-
----
-
-## License
-
-This project is licensed under the MIT License.
