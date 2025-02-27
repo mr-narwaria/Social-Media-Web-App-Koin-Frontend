@@ -95,12 +95,3 @@ To run Koin locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-## Important Notes:
-
-* **Replace Placeholders:** Make sure to replace `[Link to GitHub Repository]` with your actual repository link and update the `your-username` in the clone command.
-* **Environment Variables:** Ensure that you set up the environment variables correctly for both the frontend and backend.
-* **Resume Focus:** The "Project Highlights (For Resume)" section is designed to be directly copy-pasteable into your resume, emphasizing your contributions and achievements.
-* **Clear Instructions:** The instructions are streamlined to provide a clear and concise guide for running the application.
