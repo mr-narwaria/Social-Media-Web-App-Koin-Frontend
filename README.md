@@ -41,7 +41,7 @@ To run Koin locally, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/koin.git](https://www.google.com/search?q=https://github.com/your-username/koin.git)
+    git clone [https://github.com/mr-narwaria/koin.git](https://www.google.com/search?q=https://github.com/mr-narwaria/koin.git)
     cd koin
     ```
 
@@ -89,8 +89,6 @@ To run Koin locally, follow these steps:
 
 * [Abhishek Kumar Singh](https://github.com/AbhiSinghiitr)
 * [Shambhoolal Narwaria](https://github.com/mr-narwaria)
-* [Alhan Charan Beshra](https://github.com/ezio2605)
-* [Abhishek Raj](https://github.com/Abhi9708bittu)
 
 ---
 
